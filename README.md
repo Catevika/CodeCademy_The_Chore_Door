@@ -1,2 +1,2 @@
 # CodeCademy_The_Chore_Door
-CodeCademy_The_Chore_Door - Practice
+CodeCademy_The_Chore_Door - Practice - HTML CSS & Javascript
